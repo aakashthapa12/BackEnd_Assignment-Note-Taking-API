@@ -58,9 +58,6 @@ Detailed instructions on how to use the API, including example requests and resp
 Contribution:
 
 Contributions to this project are welcome. Feel free to fork the repository and submit pull requests.
-License:
-
-This project is licensed under the MIT License.
 
 Contact:
 
